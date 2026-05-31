@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuelete",
+        "uuid": 20057610,
+        "checksum": "pqugpi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
